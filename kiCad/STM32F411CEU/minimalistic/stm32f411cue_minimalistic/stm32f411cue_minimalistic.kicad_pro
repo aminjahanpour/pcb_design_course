@@ -715,21 +715,13 @@
         "uuid": "b865212e-ce15-46bb-ba8d-3d96d4433f64"
       }
     ],
-    "used_designators": "D4,#PWR29,#PWR51,#PWR58,C17,R11",
+    "used_designators": "D1-4,#PWR1-3,#PWR5-9,#PWR13-18,#PWR21-25,#PWR27-29,#PWR51-54,#PWR56-58,#PWR68,C1,C3,C6-12,C14-15,C17,C38-41,J1-2,J4,B2,R2-3,R6,R8-11,R15,H3-4,U1-2,Y4-5",
     "variants": []
   },
   "sheets": [
     [
       "b865212e-ce15-46bb-ba8d-3d96d4433f64",
       "stm32f411cue_minimalistic"
-    ],
-    [
-      "dff3c487-b70f-4bd5-8c60-e350e6da15a1",
-      "Sensor #1"
-    ],
-    [
-      "d4942ead-b963-427e-8943-14dddbcdce37",
-      "MCU"
     ]
   ],
   "text_variables": {},
